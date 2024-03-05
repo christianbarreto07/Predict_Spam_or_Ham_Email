@@ -84,4 +84,4 @@ F1-score (Spam): 0.83
 Acurácia: 0.92
 Essas métricas fornecem uma visão detalhada do desempenho do modelo na classificação de emails legítimos e spam, destacando a precisão, recall, f1-score e a acurácia para cada classe.
 
-Este códido foi feito por mim (Christian Cauã Forte Barreto) com base nos estudos do curso da Udemy: "Machine Learning e Data Science com Python de A a Z", com a vídeoaula daplataforma YouTube: "Implementando um Filtro Anti-SPAM usando o Naive Bayes" (Link: https://www.youtube.com/watch?v=Z8CzIOcGjuM&ab_channel=UniversoDiscreto), juntamente com meus conhecimentos adquiridos ao longo do tempo pela UFC (Universidade Federal do Ceará).
+Este códido foi feito por mim (Christian Cauã Forte Barreto) com base nos estudos do curso da Udemy: "Machine Learning e Data Science com Python de A a Z", juntamente com meus conhecimentos adquiridos ao longo do tempo pela UFC (Universidade Federal do Ceará).
